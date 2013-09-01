@@ -13,12 +13,14 @@ TODO:
 ---
 
 - [x] Have a smoke.
-- [ ] [Outline - ref #1][## Outline]
+- [ ] [Outline - ref #1][outline]
 - [ ] Have another smoke.
 - [ ] Have a nap.
 - [ ] Decide what to do.
 - [ ] Get it done.
 - [ ] Quit smoking
+
+[Outline]:#outline
 
 ## Outline
 ===

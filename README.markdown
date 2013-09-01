@@ -13,7 +13,7 @@ TODO:
 ---
 
 - [x] Have a smoke.
-- [ ] [Outline - ref #1][1]
+- [ ] [Outline - ref #1][Outline]
 - [ ] Have another smoke.
 - [ ] Have a nap.
 - [ ] Decide what to do.
@@ -21,7 +21,6 @@ TODO:
 - [ ] Quit smoking
 
 ## Outline
-[1]: #1
 ===
 
 > While Windows is not an officially-supported platform, it can be used to run

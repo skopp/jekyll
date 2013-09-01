@@ -13,12 +13,13 @@ TODO:
 ---
 
 - [x] Have a smoke.
-- [ ] [Outline - ref #1][outline]
-- [ ] Have another smoke.
-- [ ] Have a nap.
-- [ ] Decide what to do.
-- [ ] Get it done.
-- [ ] Quit smoking
+- [x] [Outline - ref #1][outline]
+- [ ] Comb through given resources
+- [ ] Recompile "Outline"/Knowledge Base __(KB)__
+- [ ] Each contributor to prepare draft of his/her methods/knowhow/tips
+- [ ] Discuss, compare notes, ~~go clubbing together afterwards.~~
+- [ ] ?
+- [ ] ...?
 
 [Outline]:#outline
 

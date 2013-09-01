@@ -13,7 +13,7 @@ TODO:
 ---
 
 - [x] Have a smoke.
-- [ ] [Outline - ref #1][Outline]
+- [ ] [Outline - ref #1][## Outline]
 - [ ] Have another smoke.
 - [ ] Have a nap.
 - [ ] Decide what to do.

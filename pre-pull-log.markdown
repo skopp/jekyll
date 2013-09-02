@@ -1,13 +1,14 @@
 Jekyll "winsafe"
 ==============
 
-<!---
-layout: docs
-title: Jekyll on Windows
-prev_section: configuration
-next_section: posts
-permalink: /docs/windows/
---->
+> Jekyll gh-page position:
+ >
+* layout: docs
+* title: Jekyll on Windows
+* prev_section: configuration
+* next_section: posts
+* permalink: /docs/windows/
+
 
 TODO:
 ---

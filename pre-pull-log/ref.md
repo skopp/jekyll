@@ -18,7 +18,7 @@ TODO:
 - [ ] Comb through given resources
 - [ ] Recompile "Outline"/Knowledge Base __(KB)__
 - [ ] Each contributor to prepare draft of his/her methods/knowhow/tips
-- [ ] Discuss, compare notes, ~~go clubbing together afterwards.~~
+- [ ] Discuss, compare notes,
 - [ ] ?
 - [ ] ...?
 
@@ -26,6 +26,9 @@ TODO:
 
 ## Outline
 ===
+
+mirrored at https://gist.github.com/6401527
+
 
 > While Windows is not an officially-supported platform, it can be used to run
 Jekyll with the proper tweaks. This page aims to collect some of the general
